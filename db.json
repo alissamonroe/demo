@@ -1,6 +1,7 @@
 {
   "events": [
       {
+          "id": 1,
           "eventId": 1,
           "eventDate": "2020-03-06T06:00:00.000+0000",
           "presenter": "Doc Brown",
@@ -12,6 +13,7 @@
           "lunchDescription": "Mouth-watering pizza perfection!"
       },
       {
+          "id": 2,
           "eventId": 2,
           "eventDate": "2020-03-13T05:00:00.000+0000",
           "presenter": "Valerie Frizzle",
@@ -23,6 +25,7 @@
           "lunchDescription": "Incredible Italian cuisine!"
       },
       {
+          "id": 3,
           "eventId": 3,
           "eventDate": "2020-03-20T05:00:00.000+0000",
           "presenter": "Jeff Goldblum",
@@ -34,6 +37,7 @@
           "lunchDescription": "Deliciousness, with or without the bowl!"
       },
       {
+          "id": 4,
           "eventId": 4,
           "eventDate": "2020-03-27T05:00:00.000+0000",
           "presenter": "Oprah Winfrey",
